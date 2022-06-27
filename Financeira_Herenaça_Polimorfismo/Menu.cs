@@ -31,8 +31,8 @@ namespace Financeira_Herenaça_Polimorfismo
                         Console.WriteLine("Aperte qualquer tecla para continuar");
                         Console.ReadLine();
                         break;
-                        case"5":
-                        Console.WriteLine("Aperte qualquer tecla para sair");
+                    case "5":
+                        Console.WriteLine("Aperte enter para sair");
                         Console.ReadLine();
                         selectCategory = true;
                         break;
